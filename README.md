@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @roshanrateria
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning LUA
 
 
 <!---
