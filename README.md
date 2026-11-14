@@ -4,8 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00000&random=false&width=435&lines=Full+Stack+Developer;AI+ML+Enthusiast;Always+Learning+New+Things)]()
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=roshanrateria)
-![snake](https://github.com/roshanrateria/snk/blob/fce8463980b1a727ca29088aff5b361e1d23f4e3/only-svg/github-contribution-grid-snake.svg)
-
+![snake](https://raw.githubusercontent.com/roshanrateria/snk/71fd8d7e383c6a4071d660aaa27203f744e18cad/github-contribution-grid-snake-ocean.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roshanrateria&theme=onedark&column=3&margin-w=15&margin-h=15&rank=-?)]()
 
