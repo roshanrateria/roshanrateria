@@ -1,19 +1,4 @@
-<h1 align="center">Roshan Rateria</h1>
-
-<p align="center">
-  <b>AI systems and security engineer</b><br>
-  Agentic systems · AI security · protocols · low-level infrastructure
-</p>
-
-<p align="center">
-  Specialist Programmer @ Infosys · B.Tech CSBS (Hons), IEM Kolkata · India
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/roshanrateria">LinkedIn</a> ·
-  <a href="https://www.researchgate.net/profile/Roshan-Rateria">ResearchGate</a>
-</p>
-
+<p align="center"> <img src="banner.svg" alt="Roshan Rateria. AI systems and security engineer. Agentic systems, AI security, protocols, low-level infrastructure. Specialist Programmer at Infosys, IEM Kolkata, India." width="100%"> </p> <p align="center"> <a href="https://linkedin.com/in/roshanrateria">LinkedIn</a> · <a href="https://www.researchgate.net/profile/Roshan-Rateria">ResearchGate</a> </p>
 ---
 
 ## About
